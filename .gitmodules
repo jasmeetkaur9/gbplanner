@@ -1,0 +1,3 @@
+[submodule "src/exploration/gbplanner2"]
+	path = src/exploration/gbplanner2
+	url = https://github.com/ntnu-arl/gbplanner_ros.git

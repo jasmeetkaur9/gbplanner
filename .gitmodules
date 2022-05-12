@@ -1,3 +1,6 @@
 [submodule "src/exploration/gbplanner2"]
 	path = src/exploration/gbplanner2
 	url = https://github.com/ntnu-arl/gbplanner_ros.git
+[submodule "src/protobuf_catkin"]
+	path = src/protobuf_catkin
+	url = https://github.com/ethz-asl/protobuf_catkin.git
